@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    
+}
+div{
+    border: 2px solid #000;
+    border-radius: 2rem;
+    margin: 0 auto 1rem;
+    max-width: 600px;
+    font-size: 3rem;
+    line-height: 7rem ;
+
+}
+h1{
+    background-color: gold;
+    border-top-left-radius: 1.9rem;
+    border-top-right-radius: 1.9rem;
+    
+
+}
+
+
+ul{
+    list-style-type: none;
+   
+}
+li{
+    border-top: 2px solid black;
+}
+a{
+    cursor:pointer;
+    color: black;
+}
+
+a:visited{
+    color: blueviolet;
+}
+a:hover{
+    color: brown;
+}
+a:active{
+    color: chartreuse;
+}
+
+
+
