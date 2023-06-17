@@ -43,6 +43,7 @@ a:visited{
 a:hover,a:focus{
     display:block;
     color: blue;
+    background: #000;
 }
 a:active{
     color: chartreuse;
