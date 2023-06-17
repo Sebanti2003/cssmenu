@@ -38,15 +38,15 @@ a{
     text-decoration: none;
 }
 
-a:visited{
+li a:visited{
     color: blueviolet;
 }
-a:hover,a:focus{
+li a:hover,a:focus{
     display:block;
     color: blue;
     background: #000;
 }
-a:active{
+li a:active{
     color: chartreuse;
 }
 li:last-child a{
