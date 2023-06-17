@@ -40,16 +40,17 @@ a{
 a:visited{
     color: blueviolet;
 }
-a:hover{
-    color: brown;
+a:hover,a:focus{
+    display:block;
+    color: blue;
 }
 a:active{
     color: chartreuse;
 }
  
 #about{
-    background-color:crimson;
-    border-radius: 0 0 2rem 2rem;
+    
+   
 }
 
 
