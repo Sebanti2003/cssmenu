@@ -46,13 +46,10 @@ a:hover{
 a:active{
     color: chartreuse;
 }
- a:focus{
-    background: black;
-    color: aliceblue;
-    display: block;
- }
-li :last-child a{
-    border-radius: 0 0 1.9rem 1.9rem;
+ 
+#about{
+    background-color: cadetblue;
+    border-radius: 0 0 2rem 2rem;
 }
 
 
